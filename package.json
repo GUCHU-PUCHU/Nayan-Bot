@@ -2,7 +2,7 @@
     "name": "NAYAN-BOT",
     "version": "5.2.2",
     "description": "simple messenger bot",
-    "main": "",
+    "main": "Nayan.js",
     "scripts": {
         "start": "node --trace-warnings --use_strict --async-stack-traces Nayan/catalogs/Nayana.js",
         "login": "node login",
